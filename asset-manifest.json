@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/hackacat/static/css/main.1cbcfea2.css",
-    "main.js": "/hackacat/static/js/main.e49327f8.js",
+    "main.js": "/hackacat/static/js/main.4d5c8951.js",
     "static/media/paw-right.png": "/hackacat/static/media/paw-right.5c60aaac35376e61caad.png",
     "static/media/cat.png": "/hackacat/static/media/cat.ff269308d2563c5fbb46.png",
     "static/media/paw-left.png": "/hackacat/static/media/paw-left.2ec2accfe225164b46ac.png",
     "static/media/mouth.png": "/hackacat/static/media/mouth.c988f9d27746be423328.png",
     "index.html": "/hackacat/index.html",
     "main.1cbcfea2.css.map": "/hackacat/static/css/main.1cbcfea2.css.map",
-    "main.e49327f8.js.map": "/hackacat/static/js/main.e49327f8.js.map"
+    "main.4d5c8951.js.map": "/hackacat/static/js/main.4d5c8951.js.map"
   },
   "entrypoints": [
     "static/css/main.1cbcfea2.css",
-    "static/js/main.e49327f8.js"
+    "static/js/main.4d5c8951.js"
   ]
 }
