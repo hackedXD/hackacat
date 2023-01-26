@@ -34,6 +34,7 @@ jobs:
           # Specifies if this action should checkout the code
           checkout: true
           build-command: CI=false npm run build
+          path: build
         env:
           CI: false
 
