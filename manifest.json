@@ -7,8 +7,8 @@
 		"newtab": "redirect.html"
 	},
 	"icons": {
-		"16": "logo192.png",
-		"48": "logo192.png",
-		"128": "logo192.png"
+		"16": "HACKACAT.png",
+		"48": "HACKACAT.png",
+		"128": "HACKACAT.png"
 	}
 }
